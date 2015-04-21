@@ -138,3 +138,4 @@ Content级别的数据不但可以封装弹幕文本，图像，脚本等，
 ----
 ## FIN
 > Written with [StackEdit](https://stackedit.io/).
+Proposal_0002 by Schezuk on 2015.04.04
