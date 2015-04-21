@@ -55,4 +55,4 @@ md客户端需要按照bt的协议与tracker交互、参与DHT网络，发布并
 -   考虑让不具备路由功能的节点把离其最近的节点作为STUN/TURN代理节点
 
 ## 欢迎各种意见、评论、吐槽！我只是觉得进度太慢看不下去了…… ##
-Proposal_0003 by Swordfeng at 2015.04.08
+Proposal_0003 by Swordfeng on 2015.04.08
