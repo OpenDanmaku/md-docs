@@ -1,25 +1,11 @@
 # MagnetDanmaku
+
 A P2P Danmaku Publishing &amp; Storage Solution
 
-功能分解草案
-----
-1. 网络服务
-  - 网络连接
-  - 路由维护
-  - 节点认证
-  - 数据交换
-2. 数据服务
-  - 数据储存
-  - 增查改删
-  - 外网同步
-  - 本地服务
-3. 弹幕服务
-  - 弹幕渲染
-  - 界面设计
-  - 交互设计
-  - 用户教学
-4. 内容服务
-  - 交友聊天
-  - 资源匹配
-  - 社区推送
-  - 特权功能
+## 提案目录
+| Name                                 | Author    | Date       | Title                            |
+| :----------------------------------- | :---------| :----------| :------------------------------- |
+| [Proposal_0000.md](Proposal_0000.md) | Schezuk   | 2015.04.22 | 讨论框架与功能分解               |
+| [Proposal_0000.md](Proposal_0001.md) | Schezuk   | 2015.02.11	| 分布式网络的弹幕通信协议         |
+| [Proposal_0000.md](Proposal_0002.md) | Schezuk   | 2015.04.04	| Magnet-Danmaku概述               |
+| [Proposal_0000.md](Proposal_0003.md) | Swordfeng | 2015.04.08 | Magnet-Danmaku组网方案的简要提议 |
