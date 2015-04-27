@@ -1,4 +1,4 @@
-﻿# MagnetDanmaku
+# MagnetDanmaku
 
 A P2P Danmaku Publishing &amp; Storage Solution
 
@@ -9,4 +9,6 @@ A P2P Danmaku Publishing &amp; Storage Solution
 | [Proposal_0001.md](Proposal_0001.md) | Schezuk   | 2015.02.11	| 分布式网络的弹幕通信协议         |
 | [Proposal_0002.md](Proposal_0002.md) | Schezuk   | 2015.04.04	| Magnet-Danmaku概述               |
 | [Proposal_0003.md](Proposal_0003.md) | Swordfeng | 2015.04.08 | Magnet-Danmaku组网方案的简要提议 |
-![Decomposition Diagram](Decomposition_Diagram.png)
+| [Proposal_0004.md](Proposal_0004.md) | Schezuk   | 2015.04.28	| 弹幕池的有关定义及数据结构       |
+| [Proposal_0005.md](Proposal_0005.md) | Schezuk   | 2015.04.28	| 高效率的仓库同步协议             |
+![New Decomposition Diagram](New_Decomposition_Diagram.png)
